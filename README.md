@@ -8,11 +8,15 @@ Raw movie data scraped from web was very messy, I have Extracted the data, Clean
 
 Goal acheived :
 
-1.Created an ETL pipeline from raw data to a SQL database.
-2.Extracted data from disparate sources using Python.
-3.Cleaned and transformed data using Pandas.
-4.Use regular expressions to parse data and to transform text into numbers.
-5.Loaded data with PostgreSQL.
+    1.Created an ETL pipeline from raw data to a SQL database.
+
+    2.Extracted data from disparate sources using Python.
+
+    3.Cleaned and transformed data using Pandas.
+
+    4.Use regular expressions to parse data and to transform text into numbers.
+    
+    5.Loaded data with PostgreSQL.
 
 
 All relevent images are in resources folder.
